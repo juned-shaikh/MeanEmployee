@@ -25,12 +25,13 @@
     "ngx-bootstrap": "^6.2.0",
     "path": "^0.12.7",
     "rxjs": "~6.6.0",
+    "save-dev": "^0.0.1-security",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1001.2",
-    "@angular/cli": "~10.1.2",
+    "@angular/cli": "^15.0.2",
     "@angular/compiler-cli": "~10.1.2",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
@@ -50,6 +51,6 @@
   },
   "engines": {
     "node": "v16.15.1",
-    "npm":"8.11.0"
+    "npm": "8.11.0"
   }
 }
